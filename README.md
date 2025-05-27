@@ -2,3 +2,5 @@
 This is a demo repository.
 <br>
 Python
+Javascript
+JAVA
